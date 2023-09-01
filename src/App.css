@@ -1,0 +1,8 @@
+.App {
+   display: flex;
+   flex-direction: column;
+   background-image: url(D:\rick_and_morty\public\1268171.jpg);
+   height: fit-content;
+   justify-content: center;
+}
+

@@ -1,0 +1,7 @@
+.nave{
+   display: flex;
+}
+.boton{
+    height: 35px;
+    text-decoration: none;
+}
